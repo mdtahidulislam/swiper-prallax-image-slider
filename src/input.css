@@ -1,11 +1,6 @@
 @import "tailwindcss";
 
 @layer base {
-	.swiper-slide {
-		width: 100% !important;
-		position: relative;
-		overflow: hidden;
-	}
 	.swiper-slide-inner {
 		position: absolute;
 		left: 0;
